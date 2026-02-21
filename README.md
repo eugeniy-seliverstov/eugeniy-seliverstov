@@ -5,7 +5,7 @@ You can learn more about my commercial experience on [LinkedIn](https://www.link
 
 ### 🛠 Tech Stack
 
-**Frontend:** TypeScript, JavaScript, React, Vue, Redux, Zustand, Vite, Vuex, Pinia, Webpack, Jest, Tailwind, SCSS, Stylus, Pug, Bootstrap, Storybook, i18n, HTML, CSS, SPA, SSR, SSG.
+**Frontend:** TypeScript, JavaScript, React, Vue, Redux, Zustand, Vite, Vuex, Pinia, Webpack, Jest, Tailwind, SCSS, Stylus, Pug, Bootstrap, Storybook, i18n, HTML, CSS, SPA, SSR, SSG.  
 **Backend:** Node.js, NestJS, Express, MongoDB, PostgreSQL, Redis, REST APIs, JWT, OAuth2, Swagger.  
 **DevOps:** Git, Docker, CI/CD, AWS (S3, CloudFront, Amplify, Lambda), Yandex Cloud, Heroku, Sentry, New Relic, HTTP Caching, CDN.
 

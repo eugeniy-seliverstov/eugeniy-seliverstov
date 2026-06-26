@@ -1,23 +1,20 @@
 # Hi there 👋
 
-I'm **Eugeniy Seliverstov**, a **Tech Lead & Senior Software Engineer** with 6+ years building and scaling production systems. I work where **reliability meets money and AI** — billing & payments platforms, third-party integrations, and applied-AI systems that ship to production. Full-stack capable, but my core is backend, architecture, and engineering leadership. You can learn more about my commercial experience on [LinkedIn](https://www.linkedin.com/in/eugeniy-seliverstov/).
+I'm **Eugeniy Seliverstov**, a **Tech Lead & Senior Software Engineer** with **7+ years** building and scaling production systems — the last 2 leading the team that builds them. My core is **backend and architecture**: services and APIs, data modeling, and keeping business-critical systems reliable as they grow — with a strong **applied-AI** track record on top. Full-stack capable. Most of my work ships in commercial products rather than public repos — more on [LinkedIn](https://www.linkedin.com/in/eugeniy-seliverstov/).
 
 ### 💡 What I do
 
-- **Billing & payments** — designed and led a payments/billing platform end-to-end:
-  subscriptions, multiple payment providers, idempotency, reconciliation.
-- **Applied AI** — built 3 production AI agents (MCP server, team AI workspace, HR screening),
-  plus an AI product quiz with semantic search over a vector database (LangChain).
-- **Backend & performance** — event-driven services, data modeling, infra optimization.
-  Recent wins: **−38% infra cost**, **−50% CDN spend**, **−40% load**.
-- **Tech leadership** — lead a backend team: architecture, mentoring, delivery.
+- **Backend & architecture** — services and APIs, data modeling, performance and infra optimization on systems at scale (100M+ records, multi-region). Recent wins: **−38% infra cost**, **−50% CDN spend**, **−40% load**, and a zero-downtime multi-region split (~500k accounts migrated).
+- **Applied AI** — built 3 production AI agents (product MCP server, team AI workspace, HR screening), shipped production OpenAI features, and prototyped an AI quiz with semantic search over a vector database (RAG / LangChain).
+- **Billing & payments** — rebuilt a subscription billing platform monolith → modular: multiple payment providers, multi-currency, recurring subscriptions, refunds.
+- **Tech leadership** — lead a cross-functional team: architecture, mentoring, hiring, delivery.
 
 ### 🛠 Tech Stack
 
 - **Backend:** Node.js, NestJS, Express, TypeScript, MongoDB, PostgreSQL, Redis, REST APIs, JWT, OAuth2, Swagger
 - **AI:** LLM integration, AI agents, MCP, function calling, prompt engineering, RAG, vector databases, semantic search, LangChain
-- **DevOps:** Git, Docker, CI/CD, AWS (S3, CloudFront, Amplify, Lambda), Yandex Cloud, Heroku, Sentry, New Relic, HTTP Caching, CDN
-- **Frontend (also):** JavaScript, React, Vue, Redux, Zustand, Pinia, Vuex, Vite, Webpack, Jest, Tailwind, SCSS, Stylus, Storybook, i18n, SPA, SSR, SSG
+- **DevOps:** Git, Docker, CI/CD, AWS (S3, CloudFront, Amplify, Lambda), Yandex Cloud, Sentry, New Relic, HTTP Caching, CDN
+- **Frontend:** JavaScript, React, Vue, Redux, Pinia, Vite, Webpack, Jest, Tailwind, SCSS, Storybook, i18n, SPA, SSR, SSG
 
 ### 🚀 Projects
 
@@ -26,13 +23,13 @@ I'm **Eugeniy Seliverstov**, a **Tech Lead & Senior Software Engineer** with 6+ 
 ### 🧠 I'm interested in
 
 - Designing clean, scalable software architecture
-- Billing/payments and high-reliability backends
+- High-reliability backends and distributed systems
 - Integrating AI / LLM agents into real-world products
 - Leading engineering teams and mentoring developers
 
 ### 🎓 Background
 
-B.Sc. in Computer Science · ICPC contestant · co-author of a C++ programming textbook.
+B.Sc. in Computer Science · ICPC semifinalist · co-author of a university C++ programming textbook (data-structures section).
 
 ### 📫 Contact
 
